@@ -1,0 +1,127 @@
+{
+  "updated": "2026-11-18",
+  "currency": "RUB",
+  "note": "Названия и цены из прайс-листа владельца. Иллюстративные фотографии видов, не фото конкретных саженцев.",
+  "items": [
+    {
+      "id": "vf1",
+      "name": "Вишня войлочная",
+      "price": 800,
+      "category": "Плодовые",
+      "description": "Весеннее цветение и ягоды летом. Уточните возраст саженца и сроки плодоношения.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Prunus%20tomentosa%20flower.jpg?width=900",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Prunus%20tomentosa%20flower.jpg",
+      "photoNote": "Иллюстрация вида из Wikimedia Commons; не фото товара питомника."
+    },
+    {
+      "id": "vf2",
+      "name": "Вейгела белая",
+      "price": 800,
+      "category": "Кустарники",
+      "description": "Декоративный кустарник с белыми цветками. Подходит для садовых композиций.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Weigela%20flowers1.jpg?width=900",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Weigela%20flowers1.jpg",
+      "photoNote": "Иллюстрация вида из Wikimedia Commons; не фото товара питомника."
+    },
+    {
+      "id": "vf3",
+      "name": "Айва",
+      "price": 800,
+      "category": "Плодовые",
+      "description": "Садовое растение с красивым весенним цветением. Вид и сорт уточняйте перед заказом.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chaenomeles%20japonica%20Fleurs.jpg?width=900",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Chaenomeles%20japonica%20Fleurs.jpg",
+      "photoNote": "Иллюстрация вида из Wikimedia Commons; не фото товара питомника."
+    },
+    {
+      "id": "vf4",
+      "name": "Черноплодка",
+      "price": 800,
+      "category": "Плодовые",
+      "description": "Арония черноплодная: декоративная листва и тёмные ягоды.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aronia%20melanocarpa%20fruit.jpg?width=900",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Aronia%20melanocarpa%20fruit.jpg",
+      "photoNote": "Иллюстрация вида из Wikimedia Commons; не фото товара питомника."
+    },
+    {
+      "id": "vf5",
+      "name": "Калина красная",
+      "price": 1500,
+      "category": "Плодовые",
+      "description": "Кустарник с белыми соцветиями и яркими красными плодами.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Viburnum%20opulus%20fruit.jpg?width=900",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Viburnum%20opulus%20fruit.jpg",
+      "photoNote": "Иллюстрация вида из Wikimedia Commons; не фото товара питомника."
+    },
+    {
+      "id": "vf6",
+      "name": "Роза садовая Алая",
+      "price": 800,
+      "category": "Розы",
+      "description": "Садовая роза с алыми цветками. Точный сорт и параметры куста уточняйте.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rose%20flower%20red.jpg?width=900",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Rose%20flower%20red.jpg",
+      "photoNote": "Иллюстрация вида из Wikimedia Commons; не фото товара питомника."
+    },
+    {
+      "id": "vf7",
+      "name": "Боярышник",
+      "price": 1500,
+      "category": "Плодовые",
+      "description": "Декоративное дерево или кустарник с весенним цветением и плодами.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Crataegus%20monogyna.jpg?width=900",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Crataegus%20monogyna.jpg",
+      "photoNote": "Иллюстрация вида из Wikimedia Commons; не фото товара питомника."
+    },
+    {
+      "id": "vf8",
+      "name": "Вангутта",
+      "price": 800,
+      "category": "Кустарники",
+      "description": "Вероятно, спирея Вангутта: кустарник с обильным белым цветением. Уточните вид.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spiraea%20%C3%97%20vanhouttei.jpg?width=900",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Spiraea%20%C3%97%20vanhouttei.jpg",
+      "photoNote": "Иллюстрация вида из Wikimedia Commons; не фото товара питомника."
+    },
+    {
+      "id": "vf9",
+      "name": "Спирея Голд флейм",
+      "price": 600,
+      "category": "Кустарники",
+      "description": "Спирея японская Goldflame с яркой меняющей окраску листвой.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spiraea%20japonica%20Goldflame%20B.jpg?width=900",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Spiraea%20japonica%20Goldflame%20B.jpg",
+      "photoNote": "Иллюстрация вида из Wikimedia Commons; не фото товара питомника."
+    },
+    {
+      "id": "vf10",
+      "name": "Форзиция",
+      "price": 800,
+      "category": "Кустарники",
+      "description": "Ранневесеннее цветение ярко-жёлтыми цветками.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Forsythia%20flower.JPG?width=900",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Forsythia%20flower.JPG",
+      "photoNote": "Иллюстрация вида из Wikimedia Commons; не фото товара питомника."
+    },
+    {
+      "id": "vf11",
+      "name": "Шелковица",
+      "price": 1500,
+      "category": "Плодовые",
+      "description": "Плодовое дерево. Цвет плодов и конкретный сорт уточняйте.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MorusAlba.jpg?width=900",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:MorusAlba.jpg",
+      "photoNote": "Иллюстрация вида из Wikimedia Commons; не фото товара питомника."
+    },
+    {
+      "id": "vf12",
+      "name": "Роза плетистая белая",
+      "price": 800,
+      "category": "Розы",
+      "description": "Плетистая роза с белыми цветками. Точный сорт и зимостойкость уточняйте.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/White%20climbing%20rose%20at%20Boreham%2C%20Essex%2C%20England%202.jpg?width=900",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:White%20climbing%20rose%20at%20Boreham%2C%20Essex%2C%20England%202.jpg",
+      "photoNote": "Иллюстрация вида из Wikimedia Commons; не фото товара питомника."
+    }
+  ]
+}
