@@ -9,9 +9,9 @@
       "price": 800,
       "category": "Плодовые",
       "description": "Плодовый кустарник с красными ягодами. Уточняйте возраст саженца и наличие.",
-      "image": "https://loremflickr.com/900/650/nanking,cherry,fruit/all",
-      "imageSource": "https://commons.wikimedia.org/wiki/Category:Prunus_tomentosa_fruits",
-      "photoNote": "Иллюстрация вида из Wikimedia Commons; не фото товара питомника."
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aengdu.jpg?width=900",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Aengdu.jpg",
+      "photoNote": "Иллюстративное фото ягод с Wikimedia Commons, не фото продаваемого саженца и не подтверждение сорта."
     },
     {
       "id": "vf2",
@@ -108,10 +108,10 @@
       "name": "Шелковица",
       "price": 1500,
       "category": "Плодовые",
-      "description": "Плодовое дерево с сочными ягодами. Цвет плодов и сорт уточняйте.",
-      "image": "https://loremflickr.com/900/650/mulberry,fruit/all",
-      "imageSource": "https://commons.wikimedia.org/wiki/Category:Morus_fruits",
-      "photoNote": "Иллюстрация вида из Wikimedia Commons; не фото товара питомника."
+      "description": "Плодовое дерево с ягодами. Цвет плодов и сорт уточняйте.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mulberry%20fruit2.jpg?width=900",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Mulberry%20fruit2.jpg",
+      "photoNote": "Иллюстративное фото ягод с Wikimedia Commons, не фото продаваемого саженца и не подтверждение сорта."
     },
     {
       "id": "vf12",
@@ -128,20 +128,20 @@
       "name": "Клубника Гигантелла Максим",
       "price": 150,
       "category": "Клубника",
-      "description": "Садовая земляника (клубника) «Гигантелла Максим». Крупноплодный сорт; размер и урожайность зависят от условий выращивания.",
-      "image": "https://loremflickr.com/900/650/strawberry,ripe,fruit/all",
-      "imageSource": "https://commons.wikimedia.org/wiki/Category:Strawberries",
-      "photoNote": "Иллюстративное изображение ягод; не фото конкретного товара."
+      "description": "Садовая земляника «Гигантелла Максим» — 150 ₽. На иллюстрации спелые ягоды; фото не подтверждает конкретный сорт.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Strawberry%20Plant%20with%20Fruit%20(close-up)%20-%2049806018238.jpg?width=900",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Strawberry%20Plant%20with%20Fruit%20(close-up)%20-%2049806018238.jpg",
+      "photoNote": "Иллюстративное фото ягод с Wikimedia Commons, не фото продаваемого саженца и не подтверждение сорта."
     },
     {
       "id": "vf14",
       "name": "Клубника Брилла",
       "price": 150,
       "category": "Клубника",
-      "description": "Садовая земляника (клубника) «Брилла». Сорт с красными ягодами; наличие и характеристики саженцев уточняйте.",
-      "image": "https://loremflickr.com/900/650/strawberry,ripe,fruit/all",
-      "imageSource": "https://commons.wikimedia.org/wiki/Category:Strawberries",
-      "photoNote": "Иллюстративное изображение ягод; не фото конкретного товара."
+      "description": "Садовая земляника «Брилла» — 150 ₽. На иллюстрации спелые ягоды; фото не подтверждает конкретный сорт.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Strawberry%20Plant%20with%20Fruit.jpg?width=900",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Strawberry%20Plant%20with%20Fruit.jpg",
+      "photoNote": "Иллюстративное фото ягод с Wikimedia Commons, не фото продаваемого саженца и не подтверждение сорта."
     }
   ]
 }
