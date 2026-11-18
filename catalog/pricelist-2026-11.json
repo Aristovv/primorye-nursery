@@ -8,9 +8,9 @@
       "name": "Вишня войлочная",
       "price": 800,
       "category": "Плодовые",
-      "description": "Весеннее цветение и ягоды летом. Уточните возраст саженца и сроки плодоношения.",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Prunus%20tomentosa%20flower.jpg?width=900",
-      "imageSource": "https://commons.wikimedia.org/wiki/File:Prunus%20tomentosa%20flower.jpg",
+      "description": "Плодовый кустарник с красными ягодами. Уточняйте возраст саженца и наличие.",
+      "image": "https://loremflickr.com/900/650/nanking,cherry,fruit/all",
+      "imageSource": "https://commons.wikimedia.org/wiki/Category:Prunus_tomentosa_fruits",
       "photoNote": "Иллюстрация вида из Wikimedia Commons; не фото товара питомника."
     },
     {
@@ -108,9 +108,9 @@
       "name": "Шелковица",
       "price": 1500,
       "category": "Плодовые",
-      "description": "Плодовое дерево. Цвет плодов и конкретный сорт уточняйте.",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MorusAlba.jpg?width=900",
-      "imageSource": "https://commons.wikimedia.org/wiki/File:MorusAlba.jpg",
+      "description": "Плодовое дерево с сочными ягодами. Цвет плодов и сорт уточняйте.",
+      "image": "https://loremflickr.com/900/650/mulberry,fruit/all",
+      "imageSource": "https://commons.wikimedia.org/wiki/Category:Morus_fruits",
       "photoNote": "Иллюстрация вида из Wikimedia Commons; не фото товара питомника."
     },
     {
@@ -122,6 +122,26 @@
       "image": "https://commons.wikimedia.org/wiki/Special:FilePath/White%20climbing%20rose%20at%20Boreham%2C%20Essex%2C%20England%202.jpg?width=900",
       "imageSource": "https://commons.wikimedia.org/wiki/File:White%20climbing%20rose%20at%20Boreham%2C%20Essex%2C%20England%202.jpg",
       "photoNote": "Иллюстрация вида из Wikimedia Commons; не фото товара питомника."
+    },
+    {
+      "id": "vf13",
+      "name": "Клубника Гигантелла Максим",
+      "price": 150,
+      "category": "Клубника",
+      "description": "Садовая земляника (клубника) «Гигантелла Максим». Крупноплодный сорт; размер и урожайность зависят от условий выращивания.",
+      "image": "https://loremflickr.com/900/650/strawberry,ripe,fruit/all",
+      "imageSource": "https://commons.wikimedia.org/wiki/Category:Strawberries",
+      "photoNote": "Иллюстративное изображение ягод; не фото конкретного товара."
+    },
+    {
+      "id": "vf14",
+      "name": "Клубника Брилла",
+      "price": 150,
+      "category": "Клубника",
+      "description": "Садовая земляника (клубника) «Брилла». Сорт с красными ягодами; наличие и характеристики саженцев уточняйте.",
+      "image": "https://loremflickr.com/900/650/strawberry,ripe,fruit/all",
+      "imageSource": "https://commons.wikimedia.org/wiki/Category:Strawberries",
+      "photoNote": "Иллюстративное изображение ягод; не фото конкретного товара."
     }
   ]
 }
